@@ -1,11 +1,10 @@
 # form-CadEcommerce
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Contato</title>
+
+nesse trabalho estamos construindo um formulário dos sites
+que vimos e traduzimos
+
+![](gif.gif)
 
 
    
